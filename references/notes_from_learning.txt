@@ -1,0 +1,1 @@
+Enter "code ." from terminal to open project in Visual Studio directly
