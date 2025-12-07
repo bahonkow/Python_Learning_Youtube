@@ -1,1 +1,3 @@
 Enter "code ." from terminal to open project in Visual Studio directly
+w cursor - szybko sie tworzy srodowisko wirtualne -> poprzez wpisanie "slowno muzycznie" teskstu utworz srodowisko i tyle
+  chcialem zeby dodal pliki requirements.txt wiec wpisalem zeby dodal i to zostalo zrobione
